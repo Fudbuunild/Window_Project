@@ -1,2 +1,2 @@
 # Window_Project
-Using new es standards, modularity on Pure JS, creating custom web components for the site. 
+Using new es standards, modularity on Pure JS, creating custom web components.
